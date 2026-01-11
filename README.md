@@ -2,7 +2,7 @@
 # LAPORAN UJIAN AKHIR - PEMROGRAMAN MOBILE
 
 ## 1. Identitas Mahasiswa
-* **Nama:** [ISI NAMA AND
+* **Nama:* [ISI NAMA AND
 * **NIM:** [ISI NIM ANDA]
 * **Kelas:** [ISI KELAS ANDA]
 * **Nama:** [ISI NAMA ANDA]
